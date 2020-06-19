@@ -59,7 +59,7 @@ header {
 /* menangani tampilan banner*/
 .banner {
   padding: 180px 0 100px 0;
-  background: url("https://raw.githubusercontent.com/hajirdm-git/progate/master/images/header.jpg");
+  background: url("../images/header.jpg");
   background-size: cover;
   color: yellow;
   text-align: center;
